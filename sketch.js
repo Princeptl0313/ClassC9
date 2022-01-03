@@ -13,7 +13,7 @@ function draw()
   // to red when RIGHT_ARROW is pressed
   
   if(keyIsDown(RIGHT_ARROW)){
-    backgrounf("red")
+    background("red")
   }
 
   if (keyIsDown(LEFT_ARROW)) 
